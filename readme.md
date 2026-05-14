@@ -7,3 +7,7 @@
    - pip install -r requirements.txt
  - run python files
    - ex: python -m src.main.main
+ - save packages if necessary
+   - pip freeze > requirements.txt
+ - deactivate venv
+   - deactivate
